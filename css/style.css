@@ -5,3 +5,10 @@
 .logo{
     height: 2.8em;
 }
+
+
+.btn-primary{
+    color: #fff;
+    background-color: #232323;
+    border-color: #323131;
+}
